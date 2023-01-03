@@ -1,25 +1,27 @@
-###TP Processus de conception orienté objet
+### TP Processus de conception orienté objet
+
+Ci-dessous les consignes indiquées pour la réalisation du tp;
 
 **Objectif**
 
 L’objectif des 4 séances de TP est d’appliquer la démarche introduite en cours pour la
 conception orientée objet. Ces séances s'articulent de la manière suivante :
 
-Séance 1 : phase 1 - Modélisation métier
+- Séance 1 : phase 1 - Modélisation métier
 A1 - Modéliser les processus métiers
 A2 - Modéliser le domaine métier
 
-Séance 2 : phase 2 - Modélisation des besoins fonctionnels (début)
+- Séance 2 : phase 2 - Modélisation des besoins fonctionnels (début)
 A3 - Identifier les limites
 A4 - Identifier les fonctionnalités
 A5 - Modéliser le périmètre fonctionnel
 
-Séance 3 : phase 2 - Modélisation des besoins fonctionnels (fin)
+- Séance 3 : phase 2 - Modélisation des besoins fonctionnels (fin)
 A6 - Décrire le périmètre fonctionnel de façon détaillée
 phase 3 - Réalisation des besoins (début)
 A7 - Réaliser les fonctionnalités (début)
 
-Séance 4 : phase 3 - Réalisation des besoins (fin)
+- Séance 4 : phase 3 - Réalisation des besoins (fin)
 A7 - Réaliser les fonctionnalités (fin)
 
 
