@@ -25,9 +25,9 @@ A7 - Réaliser les fonctionnalités (début)
 A7 - Réaliser les fonctionnalités (fin)
 
 
-Vous devez rendre chaque travail de TP 2 semaines après la séance, jour pour jour,
-même heure (voir dépôt Moodle). Ce travail sera noté. Et votre prise en compte de nos
-remarques, notre travail, sera noté aussi.
+**Organisation**
+
+Vous devez rendre chaque travail de TP 2 semaines après la séance. Ce travail sera noté. Et votre prise en compte de nos remarques, notre travail, sera noté aussi.Il peut s’effectuer en équipe de 3 étudiants maximum du même groupe de TP.
 
 À l'issue des 4 séances, vous livrerez le rapport de TP qui contiendra le document de
 conception dans lequel vous présentez votre démarche de modélisation et de conception
@@ -36,14 +36,6 @@ votre démarche, le cheminement de votre réflexion ainsi que les diagrammes qui
 résultent.
 
 
-**Organisation**
+**Collaboration**
 
-Le résultat demandé nécessite un travail important à la fois au cours de chaque séance en
-présence de l'enseignant de TP qui vous guidera mais également un travail personnel
-après chaque séance permettant de finir les activités demandées.
-Ce travail, en présentiel et personnel, est conséquent mais il vous prépare également aux
-épreuves de l'examen. Avancer chaque semaine votre modélisation et conception du sujet
-demandé vous assure les meilleures chances de succès au module pour la partie
-Modélisation.
-Ce travail de TP est noté. Il peut s’effectuer en équipe de 3 étudiants maximum du même
-groupe de TP.
+Ce travail a été réalisé avec la collaboration de Tony De Freitas et Emilie Tortel, étudiants respectivement aux Master Sciences du Logiciel et Interaction Homme/Machine de Paul Sabatier, Toulouse.

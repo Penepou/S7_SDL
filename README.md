@@ -1,4 +1,4 @@
-# S7_SDL
+# S7_labworks
 
 The goal of this repository is to list some of the labworks I was able to do during the 7th semester of the Master mention Informatique, parcours SDL, at Université Paul Sabatier - Toulouse.
 
@@ -11,7 +11,7 @@ This repository does not show the labworks of the following modules completed du
 
 - the "Théorie des langages" module, allowing
 
-1. the study of the functioning of a compiler and its architecture through the use of the Ocaml functional language
+1. the study of the functioning of a compiler in a given environment through the use of the Ocaml functional language
 2. an introduction to the Coq proof environment and the verification of a semantic-preserving transformation
 
 ### Credits
