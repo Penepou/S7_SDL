@@ -1,4 +1,7 @@
-Delabrière Pénélope - TDA4 - n°21902367
+# -----------------------------------------------------------
+# (C) 2022 Pénélope Delabrière, Toulouse, France
+# Released under GNU Affero General Public License v3.0 (AGPLv3)
+# -----------------------------------------------------------
 
 Pour exécuter exerice2.py, lancer la commande : 
 

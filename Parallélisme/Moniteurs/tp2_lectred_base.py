@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# (C) 2022 Pénélope Delabrière, Toulouse, France
+# Released under GNU Affero General Public License v3.0 (AGPLv3)
+# -----------------------------------------------------------
+
 import sys
 import time
 import random

@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# (C) 2022 Pénélope Delabrière, Toulouse, France
+# Released under GNU Affero General Public License v3.0 (AGPLv3)
+# -----------------------------------------------------------
+
 # Résolution d'une instance de sac a dos lue dans un fichier
 # Suppose que les commentaires commencent par #, que la capacité est sur la première ligne non commentée, et que les autres lignes décrivent les objets : 1 par ligne, d'abord une id puis le poids puis la valeur
 

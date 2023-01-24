@@ -1,3 +1,7 @@
+# -----------------------------------------------------------
+# (C) 2022 Pénélope Delabrière, Toulouse, France
+# Released under GNU Affero General Public License v3.0 (AGPLv3)
+# -----------------------------------------------------------
 
 param fichier := "./u20_00.bpa";
 

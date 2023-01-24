@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# (C) 2022 Pénélope Delabrière, Toulouse, France
+# Released under GNU Affero General Public License v3.0 (AGPLv3)
+# -----------------------------------------------------------
+
 # Une instance de sac a dos simple à 12 objets numérotés de 0 à 11
 
 param capacite := 20;
