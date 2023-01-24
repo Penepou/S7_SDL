@@ -1,0 +1,25 @@
+SETI R9, #0 @ width
+SETI R4, #0 @ height
+SETI R7, #0 @ x
+SETI R6, #0 @ y
+SETI R8, #1
+SETI R5, #0
+
+INVOKE 1, 9, 4 
+
+INVOKE 3, 5, 5
+INVOKE 4, 8, 0
+
+SUB R7, R9, R8
+INVOKE 3, 7, 6
+INVOKE 4, 8, 0
+
+SUB R6, R4, R8
+INVOKE 3, 7, 6
+INVOKE 4, 8, 0
+
+SET R7, R5
+INVOKE 3, 7, 6
+INVOKE 4, 8, 0
+
+STOP

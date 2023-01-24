@@ -1,7 +1,8 @@
-# -----------------------------------------------------------
-# (C) 2022 Pénélope Delabrière, Toulouse, France
-# Released under GNU Affero General Public License v3.0 (AGPLv3)
-# -----------------------------------------------------------
+#Copyright (C) 2022 - Pénélope Delabrière, <penelope.delabriere@master-developpement-logiciel.fr>
+
+#This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 # Résolution d'une instance de sac a dos lue dans un fichier
 # Suppose que les commentaires commencent par #, que la capacité est sur la première ligne non commentée, et que les autres lignes décrivent les objets : 1 par ligne, d'abord une id puis le poids puis la valeur
